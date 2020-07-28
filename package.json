@@ -1,0 +1,11 @@
+{
+	"name": "@appulate/loose-node-types-for-web-projects",
+	"version": "0.0.1",
+	"description": "Loose Node.js TypeScript definitions for web projects",
+	"repository": "appulate/loose-node-types-for-web-projects",
+	"types": "index.d.ts", 
+	"license": "MIT",
+	"files": [
+		"index.d.ts"
+	]
+}
