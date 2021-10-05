@@ -1,6 +1,6 @@
 {
 	"name": "@appulate/loose-node-types-for-web-projects",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Loose Node.js TypeScript definitions for web projects",
 	"repository": "appulate/loose-node-types-for-web-projects",
 	"types": "index.d.ts", 
